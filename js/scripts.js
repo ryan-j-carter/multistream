@@ -1,7 +1,7 @@
 
 $(function() {
 	window.SITE_URL = 'http://ryan-j-carter.github.io/multistream';
-	window.CLIENT_ID = 'guub8xzlawnd08u9i6rkjh2ehpuim6t';
+	window.CLIENT_ID = 'p02hzddvw36qnq1cw0x0na6tr0hns96';
 	window.USER;
 	window.STREAMS;
 
